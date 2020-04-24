@@ -15,6 +15,6 @@
 * Resticted Boltzman Machine
 * Autoendocer
 ## 4.Generative models
-_ Varitional Autoencoder
+- Varitional Autoencoder
 - Generative Adversarial Networks (GANs)
 - Multi-task Deep Learning, Multi-view Deep Learning.
