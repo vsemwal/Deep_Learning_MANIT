@@ -1,7 +1,20 @@
 # Deep_Learning_MANIT By Dr. Vijay Bhaskar Semwal
-1- Neural Network using Irsi data set
-2- CNN code MNIST Fashion data set
-3- CNN code for CIFAR-10 data set
-4- CNN code for MNIST digit data set
-5- RNN Code 
-6- Ensemable Learning (Random Forest, Decison Tree)
+## Topics covered so far
+### 1. Shallow Netowrk 
+* Neural Network using Irsi data set
+* Feedforward Networks
+* Ensemable Learning (Random Forest, Decison Tree)
+## 2. Supervised Deep Netowrk 
+- CNN code MNIST Fashion data set
+- CNN code for CIFAR-10 data set
+- CNN code for MNIST digit data set
+-  RNN
+- Long Short Term Memory (LSTM)
+-  Gated Recurrent Units
+## 3. Unsupervized Deep Netowrk 
+* Resticted Boltzman Machine
+* Autoendocer
+## 4.Generative models
+_ Varitional Autoencoder
+- Generative Adversarial Networks (GANs)
+- Multi-task Deep Learning, Multi-view Deep Learning.
